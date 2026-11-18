@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="216" viewBox="0 0 900 216" fill="none" role="img" aria-label="Patryk Markiewicz — Developer &amp; Informatyk">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="900" y2="216" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#13141F" />
+      <stop offset="55%" stop-color="#1A1B26" />
+      <stop offset="100%" stop-color="#161722" />
+    </linearGradient>
+    <linearGradient id="accentBar" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#00E5FF" />
+      <stop offset="50%" stop-color="#7AA2F7" />
+      <stop offset="100%" stop-color="#BB9AF7" />
+    </linearGradient>
+    <linearGradient id="glowOrb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.14" />
+      <stop offset="100%" stop-color="#BB9AF7" stop-opacity="0.0" />
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#7AA2F7" stroke-opacity="0.045" stroke-width="1" />
+    </pattern>
+    <clipPath id="cardClip">
+      <rect x="1" y="1" width="898" height="214" rx="14" />
+    </clipPath>
+  </defs>
+
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, 'SFMono-Regular', monospace; }
+    .pulse { animation: pulseAnim 2.4s ease-in-out infinite; }
+    .line1 { opacity: 0; animation: cycle1 25s ease-in-out infinite; }
+    @keyframes cycle1 {
+      0% { opacity: 0; transform: translateY(4px); }
+      3%, 17% { opacity: 1; transform: translateY(0); }
+      20%, 100% { opacity: 0; transform: translateY(-4px); }
+    }
+    .line2 { opacity: 0; animation: cycle2 25s ease-in-out infinite; }
+    @keyframes cycle2 {
+      0%, 20% { opacity: 0; transform: translateY(4px); }
+      23%, 37% { opacity: 1; transform: translateY(0); }
+      40%, 100% { opacity: 0; transform: translateY(-4px); }
+    }
+    .line3 { opacity: 0; animation: cycle3 25s ease-in-out infinite; }
+    @keyframes cycle3 {
+      0%, 40% { opacity: 0; transform: translateY(4px); }
+      43%, 57% { opacity: 1; transform: translateY(0); }
+      60%, 100% { opacity: 0; transform: translateY(-4px); }
+    }
+    .line4 { opacity: 0; animation: cycle4 25s ease-in-out infinite; }
+    @keyframes cycle4 {
+      0%, 60% { opacity: 0; transform: translateY(4px); }
+      63%, 77% { opacity: 1; transform: translateY(0); }
+      80%, 100% { opacity: 0; transform: translateY(-4px); }
+    }
+    .line5 { opacity: 0; animation: cycle5 25s ease-in-out infinite; }
+    @keyframes cycle5 {
+      0%, 80% { opacity: 0; transform: translateY(4px); }
+      83%, 97% { opacity: 1; transform: translateY(0); }
+      100% { opacity: 0; transform: translateY(-4px); }
+    }
+
+    @keyframes pulseAnim {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.35; }
+    }
+  </style>
+
+  <g clip-path="url(#cardClip)">
+    <rect x="1" y="1" width="898" height="214" rx="14" fill="url(#bgGrad)" />
+    <rect x="1" y="1" width="898" height="214" fill="url(#grid)" />
+    <circle cx="790" cy="65" r="170" fill="url(#glowOrb)" />
+
+    <rect x="1" y="1" width="898" height="38" fill="#10111A" />
+    <line x1="1" y1="39" x2="899" y2="39" stroke="#24283B" stroke-width="1" />
+    <rect x="1" y="1" width="898" height="2.5" fill="url(#accentBar)" />
+
+    <circle cx="24" cy="20" r="5.5" fill="#F7768E" />
+    <circle cx="42" cy="20" r="5.5" fill="#E0AF68" />
+    <circle cx="60" cy="20" r="5.5" fill="#9ECE6A" />
+
+    <text x="450" y="24" text-anchor="middle" class="mono" font-size="12" fill="#565F89">kafelek69@workstation:~/dev</text>
+
+    <rect x="758" y="10" width="108" height="20" rx="10" fill="#1A2230" stroke="#2A3B4C" stroke-width="1" />
+    <circle cx="772" cy="20" r="3.8" fill="#9ECE6A" class="pulse" />
+    <text x="783" y="24" class="mono" font-size="10.5" font-weight="600" fill="#9ECE6A">ACTIVE BUILD</text>
+
+    <text x="34" y="88" class="sans" font-size="31" font-weight="800" fill="#F8FAFC" letter-spacing="-0.4">⚡ Patryk Markiewicz</text>
+
+    <rect x="754" y="65" width="112" height="28" rx="7" fill="#1F2335" stroke="#3B4261" stroke-width="1" />
+    <text x="810" y="83" text-anchor="middle" class="mono" font-size="12.5" font-weight="600" fill="#7DCFFF">@Kafelek69</text>
+
+    <text x="36" y="118" class="sans" font-size="14.5" font-weight="500" fill="#A9B1D6">
+      Developer &amp; Informatyk
+      <tspan fill="#565F89" dx="6">•</tspan>
+      <tspan fill="#7AA2F7" dx="6">Architektura systemów i chmura</tspan>
+      <tspan fill="#565F89" dx="6">•</tspan>
+      <tspan fill="#BB9AF7" dx="6">Skalowalne rozwiązania</tspan>
+    </text>
+
+    <rect x="34" y="140" width="832" height="50" rx="9" fill="#0F1018" stroke="#24283B" stroke-width="1" />
+    <text x="52" y="170" class="mono" font-size="13.5" font-weight="700" fill="#9ECE6A">➜</text>
+    <text x="72" y="170" class="mono" font-size="13.5" font-weight="600" fill="#7DCFFF">about</text>
+    <text x="120" y="170" class="mono" font-size="13.5" fill="#565F89">--live</text>
+
+    <g class="line1">
+      <text x="180" y="170" class="mono" font-size="13.5" fill="#C0CAF5">
+        Programowanie Systemów Informatycznych — <tspan fill="#00E5FF" font-weight="600">Politechnika Morska w Szczecinie</tspan>
+      </text>
+    </g>
+    <g class="line2">
+      <text x="180" y="170" class="mono" font-size="13.5" fill="#C0CAF5">
+        Technik Informatyk — kwalifikacje <tspan fill="#BB9AF7" font-weight="600">INF.02 i INF.03</tspan>
+      </text>
+    </g>
+    <g class="line3">
+      <text x="180" y="170" class="mono" font-size="13.5" fill="#C0CAF5">
+        Praca inżynierska: <tspan fill="#7AA2F7" font-weight="600">system rankingowy, wielokryterialna ocena obiektów</tspan>
+      </text>
+    </g>
+    <g class="line4">
+      <text x="180" y="170" class="mono" font-size="13.5" fill="#C0CAF5">
+        Game design i <tspan fill="#00E5FF" font-weight="600">IoT</tspan> • po godzinach <tspan fill="#BB9AF7" font-weight="600">CS2, Minecraft, RPG-i, ASG</tspan>
+      </text>
+    </g>
+    <g class="line5">
+      <text x="180" y="170" class="mono" font-size="13.5" fill="#C0CAF5">
+        Zapytaj mnie o: <tspan fill="#7AA2F7" font-weight="600">Python, C++ i bezpieczne bazy relacyjne (MySQL, PostgreSQL)</tspan>
+      </text>
+    </g>
+  </g>
+
+  <rect x="1" y="1" width="898" height="214" rx="14" stroke="#292E42" stroke-width="1.2" />
+</svg>
