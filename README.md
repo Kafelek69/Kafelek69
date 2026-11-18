@@ -6,6 +6,7 @@
 
   <p align="center">
     <a href="mailto:patrykmarkiewicz2004@gmail.com"><img src="https://img.shields.io/badge/Email-patrykmarkiewicz2004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://discord.com/users/652080217736609812" target="_blank"><img src="https://img.shields.io/badge/Discord-mowmiszefu-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: mowmiszefu" /></a>
     <a href="https://steamcommunity.com/id/Kafelek69" target="_blank"><img src="https://img.shields.io/badge/Steam-Kafelek69-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam: Kafelek69" /></a>
   </p>
 </div>
