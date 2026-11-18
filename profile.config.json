@@ -1,0 +1,24 @@
+{
+  "username": "Kafelek69",
+  "steamId": "Kafelek69",
+  "timezone": "Europe/Warsaw",
+  "location": "Poland (Europe/Warsaw)",
+  "excludeRepos": ["Kafelek69"],
+  "includedForks": [],
+  "steamShowcase": [
+    {
+      "name": "Counter-Strike 2",
+      "abbr": "CS2",
+      "color": "#DE9B35",
+      "note": "After-hours favorite",
+      "tag": "PLAYING"
+    },
+    {
+      "name": "Minecraft",
+      "abbr": "MC",
+      "color": "#3FB950",
+      "note": "After-hours favorite",
+      "tag": "PLAYING"
+    }
+  ]
+}
