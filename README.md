@@ -23,6 +23,18 @@ Jestem Developerem i doświadczonym informatykiem z solidnym zapleczem w program
   <a href="https://steamcommunity.com/id/Kafelek69"><img src="https://img.shields.io/badge/Steam-Kafelek69-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam: Kafelek69" /></a>
 </p>
 
+### 💻 Tech Arsenal
+
+<p align="center">
+  <img src="./assets/tech-arsenal.svg" width="100%" alt="Kafelek69 Tech Arsenal wykryty z repozytoriów" />
+</p>
+
+### 📊 Telemetria, nawyki programistyczne i Steam
+
+<p align="center">
+  <img src="./assets/metrics.svg" width="100%" alt="Kafelek69 GitHub & Steam Metrics Infographic" />
+</p>
+
 ### 🛠 Technologie i narzędzia, z którymi pracuję:
 
 **Języki Programowania:**
