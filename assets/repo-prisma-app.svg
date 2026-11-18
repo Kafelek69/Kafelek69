@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="170" viewBox="0 0 480 170" role="img" aria-label="Kafelek69/prisma-app">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1b1035"/>
+      <stop offset="1" stop-color="#3b1d5e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff5f6d"/>
+      <stop offset="0.5" stop-color="#ffc371"/>
+      <stop offset="1" stop-color="#6dd5fa"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="170" rx="12" fill="url(#bg)" stroke="#5b3b8c"/>
+  <rect x="0" y="0" width="480" height="5" rx="2" fill="url(#accent)"/>
+  <text x="24" y="42" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">Kafelek69 / prisma-app</text>
+  <text x="456" y="42" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#ffc371">PRACA INŻYNIERSKA</text>
+  <text x="24" y="72" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#d9ccf0">Bezpieczna, inkluzywna platforma randkowa</text>
+  <text x="24" y="92" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#d9ccf0">i społecznościowa: dopasowania, czat, moderacja.</text>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#ffffff">
+    <rect x="24" y="116" width="52" height="24" rx="12" fill="#6c5ce7"/><text x="50" y="132" text-anchor="middle">PHP</text>
+    <rect x="84" y="116" width="86" height="24" rx="12" fill="#00b894"/><text x="127" y="132" text-anchor="middle">Node.js</text>
+    <rect x="178" y="116" width="52" height="24" rx="12" fill="#0984e3"/><text x="204" y="132" text-anchor="middle">SQL</text>
+    <rect x="238" y="116" width="70" height="24" rx="12" fill="#2d8cff"/><text x="273" y="132" text-anchor="middle">Docker</text>
+  </g>
+</svg>
