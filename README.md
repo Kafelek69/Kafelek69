@@ -1,14 +1,16 @@
-# Cześć, jestem Patryk! 👋
+<div align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Patryk Markiewicz — Developer & Informatyk" />
 
-Jestem Developerem i doświadczonym informatykiem z solidnym zapleczem w programowaniu oraz zarządzaniu infrastrukturą IT. Szukam możliwości rozwoju w obszarze architektury systemów i chmury, gdzie mogę tworzyć innowacyjne oraz skalowalne rozwiązania.
+  <br />
+  <br />
 
-### 👨‍💻 O mnie
-* 🎓 Studiuję Informatykę (specjalizacja: Programowanie Systemów Informatycznych) na Politechnice Morskiej w Szczecinie.
-* 🛠 Posiadam kwalifikacje Technika Informatyka (INF.02, INF.03).
-* 🔭 Obecnie pracuję m.in. nad moją pracą inżynierską dotyczącą systemu rankingowego opartego na algorytmach wielokryterialnej oceny obiektów.
-* 🎮 W wolnym czasie interesuję się projektowaniem gier, rozwiązaniami IoT, a po godzinach gram w CS2, Minecrafta, RPG-i i działam na strzelankach ASG.
-* 💬 Zapytaj mnie o: Python, C++ lub optymalizację i tworzenie bezpiecznych relacyjnych baz danych (MySQL, PostgreSQL).
-* 📫 Jak się ze mną skontaktować: patrykmarkiewicz2004@gmail.com
+  <p align="center">
+    <a href="mailto:patrykmarkiewicz2004@gmail.com"><img src="https://img.shields.io/badge/Email-patrykmarkiewicz2004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://steamcommunity.com/id/Kafelek69" target="_blank"><img src="https://img.shields.io/badge/Steam-Kafelek69-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam: Kafelek69" /></a>
+  </p>
+</div>
+
+---
 
 ### 📌 Wyróżnione projekty
 
@@ -17,11 +19,7 @@ Jestem Developerem i doświadczonym informatykiem z solidnym zapleczem w program
   <a href="https://github.com/Kafelek69/AuraCast"><img src="./assets/repo-auracast.svg" width="49%" alt="Kafelek69/AuraCast – platforma do streamingu" /></a>
 </p>
 
-### 🎮 Steam
-
-<p align="center">
-  <a href="https://steamcommunity.com/id/Kafelek69"><img src="https://img.shields.io/badge/Steam-Kafelek69-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam: Kafelek69" /></a>
-</p>
+---
 
 ### 💻 Tech Arsenal
 
@@ -29,21 +27,10 @@ Jestem Developerem i doświadczonym informatykiem z solidnym zapleczem w program
   <img src="./assets/tech-arsenal.svg" width="100%" alt="Kafelek69 Tech Arsenal wykryty z repozytoriów" />
 </p>
 
+---
+
 ### 📊 Telemetria, nawyki programistyczne i Steam
 
 <p align="center">
   <img src="./assets/metrics.svg" width="100%" alt="Kafelek69 GitHub & Steam Metrics Infographic" />
 </p>
-
-### 🛠 Technologie i narzędzia, z którymi pracuję:
-
-**Języki Programowania:**
-* Python | C++ | C# | Java | JavaScript / TypeScript | PHP | Lua | MATLAB
-
-**Backend i Bazy Danych:**
-* Node.js / Express | Django / Flask | REST API | Socket.io | JWT/Auth
-* MySQL | PostgreSQL | SQLite | SQL
-
-**Frontend i Systemy:**
-* HTML5 | CSS3
-* Git / GitHub | Docker | Linux / Windows | Android SDK
